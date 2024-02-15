@@ -1,2 +1,2 @@
 # precurso-henry
-este es un repositorio del modulo 2 del precurso de henry 
+este es un repositorio es una prueba de como crear un proyecto desde github
